@@ -18,11 +18,10 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent)
 
-```bash
-Languages: C++, C# , Python, JavaScript, HTML/CSS  
-Frameworks: Flask, Bootstrap  
-Tools: Git, VS Code, Figma, Premiere Pro.
-```
+* Languages: C++, C#, Python, HTML/CSS
+* Frameworks: Flask, Bootstrap
+* Tools: Git, VS Code, Figma, Premiere Pro.
+
 
 
 ## 📈 GitHub Stats
@@ -31,5 +30,10 @@ Tools: Git, VS Code, Figma, Premiere Pro.
 
 
 ## 🌐 Connect With Me
-- 💼 [Portfolio Website](#) (Coming Soon!)
 - 💌 [Email Me](tcjyn0128@gmail.com)
+- [Discord]()
+- 🧃 IG / Threads / Whatever — DM me if you’re chill 😎
+
+
+> “Stay curious. Stay playful. Steal code responsibly.”
+— Cailani the Raccoon 🦝
