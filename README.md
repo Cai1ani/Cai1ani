@@ -16,7 +16,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ## 🛠️ Toolbox
 
-![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true)
+[![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true)](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true&debug=true)
 
 
 - 💬 Languages: `Python`, `C++`, `C#`, `HTML+CSS`
