@@ -18,9 +18,9 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent)
 
-- 💬 Languages: `Python`, `JavaScript`, `C#`
-- 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Oculus SDK`
-- 🤖 AI Tools: `OpenAI`, `Whisper`, `AWS Polly`
+- 💬 Languages: `Python`, `C++`, `C#`
+- 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Blender`
+- 🤖 AI Tools & Speech Tech : `OpenAI`, `Whisper`, `AWS Polly`
 - 🌐 Web Frameworks: `Flask`, `Bootstrap`
 - 🎨 Creative Tools: `Photoshop`, `Premiere`, `Figma`
 - 🛠 Dev Tools: `Git`, `VS Code`
