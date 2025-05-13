@@ -18,6 +18,8 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 [![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true)](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true&debug=true)
 
+[![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true)](https://github.com/Cai1ani/github-readme-stats)
+
 
 - 💬 Languages: `Python`, `C++`, `C#`, `HTML+CSS`
 - 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Blender`
