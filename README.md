@@ -7,25 +7,25 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently digging into: `Flask`, `React`, and `AI side projects`.
-- 🧠 I enjoy solving real-world problems with fun little builds.
+- 🌱 Currently digging into: `javascript`, `Tailwindcss`, and `AI side projects`.
+- 🧠 I'm curious about everything — I love learning random things and turning them into quirky little builds.
 - 📷 Offscreen, I enjoy editing videos, photo shoots, and being aesthetic AF (jk).
-- 🌍 Open to **collabs**, memes, or raccoon jokes. Let's create together!
+- 🌍 Open to **collabs**, memes, or designing. Let's create together!
 
 ---
 
 ## 🛠️ Toolbox
 
-![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent&count_private=true)
 
-- 💬 Languages: `Python`, `C++`, `C#`
+- 💬 Languages: `Python`, `C++`, `C#`, `HTML+CSS`
 - 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Blender`
 - 🤖 AI Tools & Speech Tech : `OpenAI`, `Whisper`, `AWS Polly`
 - 🌐 Web Frameworks: `Flask`, `Bootstrap`
-- 🎨 Creative Tools: `Premiere`, `Figma`
+- 🎨 Creative Tools: `Premiere Pro`, `Figma`
 - 🛠 Dev Tools: `Git`, `VS Code`
 
-## Connect With Me
+## Connect With Me (undercontruction)
 > “Stay curious. Stay playful. Steal code responsibly.”
 — Cailani the Raccoon 🦝
 
