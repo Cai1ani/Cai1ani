@@ -1,5 +1,5 @@
 # Hi there, I'm Cailani the Raccoon! 🦝✨  
-> *"Coding at night, raiding bugs like trash cans."*
+> *"Coding at night, raiding bugs like trash cans."* 🌃
 
 Welcome to my cozy corner on GitHub!  
 I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time **curious soul**. Here's a peek into my world:
@@ -16,7 +16,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ## 🛠️ Toolbox
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&layout=compact&theme=transparent)
 
 - 💬 Languages: `Python`, `C++`, `C#`
 - 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Blender`
