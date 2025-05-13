@@ -30,7 +30,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 
 ## 🌐 Connect With Me
-- 💌 [Email Me](tcjyn0128@gmail.com)
+- 💌 [Email Me](mailto:tcjyn0128@gmail.com)
 - [Discord]()
 - 🧃 IG / Threads / Whatever — DM me if you’re chill 😎
 
