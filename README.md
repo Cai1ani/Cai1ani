@@ -22,20 +22,19 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 - 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Blender`
 - 🤖 AI Tools & Speech Tech : `OpenAI`, `Whisper`, `AWS Polly`
 - 🌐 Web Frameworks: `Flask`, `Bootstrap`
-- 🎨 Creative Tools: `Photoshop`, `Premiere`, `Figma`
+- 🎨 Creative Tools: `Premiere`, `Figma`
 - 🛠 Dev Tools: `Git`, `VS Code`
 
-
-
-## 📈 GitHub Stats
-![Cai1ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cai1ani&show_icons=true&theme=transparent)
-
-
-
-## 🌐 Connect With Me
-Wait a moment.....no wifi connected.....
-- 🧃 Discord / Whatever — DM me if you’re chill 😎
-
-
+## Connect With Me
 > “Stay curious. Stay playful. Steal code responsibly.”
 — Cailani the Raccoon 🦝
+
+
+<details>
+  <summary>🌀 GitHub Stats</summary>
+  
+  <img align="left" alt="Cai1ani's GitHub stats" src="https://github-readme-stats-cailanis-projects.vercel.app/api?username=Cai1ani&show_icons=true&hide_border=false&title_color=7aa2f7&icon_color=b4befe&bg_color=0d1117&text_color=cdd6f4&border_color=313244" />
+
+</details>
+
+
