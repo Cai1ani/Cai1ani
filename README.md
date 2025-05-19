@@ -15,7 +15,6 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 ---
 
 ## 🛠️ Toolbox
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cai1ani&layout=compact)
 
 - 💬 Languages: `Python`, `C++`, `C#`
 - 🎮 Game/VR Dev: `Unity3D`, `Meta Quest`, `Blender`
