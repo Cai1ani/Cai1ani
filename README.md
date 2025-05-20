@@ -40,7 +40,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 <details>
   <summary>🌀 GitHub Stats</summary>
   
-  <img style="margin-left: 20px; margin-bottom: 10px;" alt="Cai1ani's GitHub stats" src="https://github-readme-stats-ashy-kappa.vercel.app/api?username=Cai1ani&show_icons=true&hide_border=false&title_color=7aa2f7&icon_color=b4befe&bg_color=0d1117&text_color=cdd6f4&border_color=313244" />
+  <img style="margin-left: 20px; margin-bottom: 10px;" alt="Cai1ani's GitHub stats" src="https://github-readme-stats-ashy-kappa.vercel.app/api?username=Cai1ani&theme=react&show_icons=true&hide_border=false" />
 
 </details>
 
