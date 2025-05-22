@@ -60,10 +60,8 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;"/> 
 <img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="dotnetcore" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="vercel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" style="padding-right:10px;"/>          
+<img align="left" alt="dotnetcore" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;"/>        
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />         
-<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="padding-right:10px;"/>
           
 
 <br />
