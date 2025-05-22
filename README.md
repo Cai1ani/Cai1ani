@@ -29,7 +29,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 - 🎨 Creative Tools: `Premiere Pro`, `Figma`
 - 🛠 Dev Tools: `Git`, `VS Code`
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cai1ani&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cai1ani&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
