@@ -63,6 +63,9 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 <img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="dotnetcore" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;"/>        
 <img align="left" alt="vitejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />         
+<img align="left" alt="supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
+<img align="left" alt="supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" style="padding-right:10px;"/>
+          
           
 
 <br />
