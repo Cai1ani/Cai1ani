@@ -23,9 +23,6 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 ---
 
 ## 🛠️ Toolbox
-
-
-
 ### 👽 Languages    
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,py)](https://skillicons.dev)
 
@@ -59,7 +56,10 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 > “Stay curious. Stay playful. Steal code responsibly.”
   — Cailani the Raccoon 🦝
 
-[![Connect With Me](https://skillicons.dev/icons?i=gmail)](mailto:tcjyn0128@gmail.com)
+<a href="mailto:tcjyn0128@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Connect With Me" />
+</a>
+
 
 
 
