@@ -24,14 +24,10 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ## 🛠️ Toolbox
 
-### 👽 Languages     
-<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/> 
 
-<br />
-<br />
+
+### 👽 Languages    
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,py)](https://skillicons.dev)
 
 <details>
   <summary>Language Used 📊 </summary>
@@ -41,52 +37,30 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 
 ### 🎮 Game/VR Dev
-<img align="left" alt="blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="padding-right:10px;" />
-<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
+[![Game/VR Dev](https://skillicons.dev/icons?i=blender,unity)](https://skillicons.dev)
 
 ### 🛠 Dev Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;"/>
 
-
-<br />
-<br />
+[![Dev Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git)](https://skillicons.dev)
 
 ### 🌐 Web Development
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;"/> 
-<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="dotnetcore" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;"/>        
-<img align="left" alt="vitejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />         
-<img align="left" alt="supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
-<img align="left" alt="supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" style="padding-right:10px;"/>
-          
-          
+[![Web Development](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,dotnet,vite,vercel)](https://skillicons.dev)
 
-<br />
-<br />
 
 ### 🎨 Creative Tools
+[![Creative Tools](https://skillicons.dev/icons?i=figma,notion,pr)](https://skillicons.dev)
 
-<img align="left" alt="figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="notion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="premierepro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" style="padding-right:10px;"/>
-          
-
-<br />
-<br />
+### 🗃️ Others
+[![Others](https://skillicons.dev/icons?i=arduino,aws)](https://skillicons.dev)
 
 ---
 
 ## Connect With Me (undercontruction)
 > “Stay curious. Stay playful. Steal code responsibly.”
   — Cailani the Raccoon 🦝
-(
+
+[![Connect With Me](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+
 
 
 <details>
