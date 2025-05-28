@@ -59,7 +59,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 > “Stay curious. Stay playful. Steal code responsibly.”
   — Cailani the Raccoon 🦝
 
-[![Connect With Me](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![Connect With Me](https://skillicons.dev/icons?i=gmail)](mailto:tcjyn0128@gmail.com)
 
 
 
