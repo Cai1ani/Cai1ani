@@ -8,11 +8,22 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ## 🚀 About Me
 
+> “Stay curious. Stay playful. Steal code responsibly.”
+  — Cailani the Raccoon 🦝
+
 <details>
-  <summary>Github Streak 🔥 </summary>
+  <summary>Github Streak 🔥</summary>
   <br>
   <img alt="Cai1ani's Top Langs" src="https://streak-stats.demolab.com?user=Cai1ani&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
 </details>
+
+<details>
+  <summary>GitHub Stats 🌀</summary>
+  <br>
+  <img style="margin-left: 20px; margin-bottom: 10px;" alt="Cai1ani's GitHub stats" src="https://github-readme-stats-ashy-kappa.vercel.app/api?username=Cai1ani&theme=transparent&show_icons=true&hide_border=false&title_color=90b7bf&icon_color=9d5353&text_color=bf8b67&border_color=313244" />
+
+</details>
+
 
 
 - 🌱 Currently digging into: `javascript`, `Tailwindcss`, and `AI side projects`.
@@ -23,6 +34,8 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 ---
 
 ## 🛠️ Toolbox
+
+
 ### 👽 Languages    
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,py)](https://skillicons.dev)
 
@@ -52,22 +65,8 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 
 ---
 
-## Connect With Me (undercontruction)
-> “Stay curious. Stay playful. Steal code responsibly.”
-  — Cailani the Raccoon 🦝
-
+## Connect With Me
 <a href="mailto:tcjyn0128@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Connect With Me" />
 </a>
-
-
-
-
-<details>
-  <summary>🌀 GitHub Stats</summary>
-  <br>
-  <img style="margin-left: 20px; margin-bottom: 10px;" alt="Cai1ani's GitHub stats" src="https://github-readme-stats-ashy-kappa.vercel.app/api?username=Cai1ani&theme=transparent&show_icons=true&hide_border=false&title_color=90b7bf&icon_color=9d5353&text_color=bf8b67&border_color=313244" />
-
-</details>
-
 
