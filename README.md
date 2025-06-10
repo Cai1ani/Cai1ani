@@ -12,7 +12,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
   — Cailani the Raccoon 🦝
 
 <details>
-  <summary>Github Streak 🔥</summary>
+  <summary>GitHub Streak 🔥</summary>
   <br>
   <img alt="Cai1ani's Top Langs" src="https://streak-stats.demolab.com?user=Cai1ani&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
 </details>
