@@ -42,7 +42,7 @@ I’m a passionate **tech explorer**, part-time **creative raccoon**, full-time 
 <details>
   <summary>Language Used 📊 </summary>
   <br>
-  <img alt="Cai1ani's Top Langs" src="https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&show_icons=true&hide_border=false&theme=transparent&title_color=90b7bf&icon_color=9d5353&border_color=313244&layout=compact&hide=ShaderLab,Mathematica,HLSL" />
+  <img alt="Cai1ani's Top Langs" src="https://github-readme-stats-cailanis-projects.vercel.app/api/top-langs/?username=Cai1ani&show_icons=true&hide_border=false&theme=transparent&title_color=90b7bf&icon_color=9d5353&border_color=313244&layout=compact&hide=ShaderLab,Mathematica,HLSL&exclude_repo=UnityProject1,VR-PDMS2" />
 </details>
 
 
